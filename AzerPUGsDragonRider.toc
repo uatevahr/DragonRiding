@@ -1,3 +1,5 @@
+## Interface: 100002
+
 ## SavedVariables: ChangeLogData VigorFramePosition VigorFrameAutoHide HideSideWings VigorFrameAutoHideInWrongZone AZPHideGlyphs
 
 AzerPUGsDragonRider.lua
